@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MatheusFBasso
+- 👋 Hi, I’m Matheus Basso
 - 👀 I’m interested in Data Science, Machine Leatning and Deep Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on a Data Science projects
