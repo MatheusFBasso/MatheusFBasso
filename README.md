@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Matheus Basso
-- 👀 I’m interested in Data Science, Machine Leatning and Deep Learning
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on a Data Science projects
-- 📫 How to reach me: @ matheusfelipebasso10@gmail.com
+- 👀 I’m interested in Data Anlytics, Data Science, Machine Learning, Deep Learning
+- 📫 How to reach me: matheusfelipebasso10@gmail.com
